@@ -1,4 +1,4 @@
-
+#python program for finding prime number..
 n = int(input("entre the number"))
 def solution(n):
     prime_nums = []
